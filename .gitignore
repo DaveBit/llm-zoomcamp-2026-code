@@ -1,5 +1,12 @@
-.venv
-.env
+# Python
+__pycache__/
+*.pyc
+
+# SQLite
 *.db
 *.db-shm
 *.db-wal
+
+# Environment
+.venv/
+.env
